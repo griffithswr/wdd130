@@ -1,0 +1,29 @@
+:root {
+    background-color: #8F754F;
+    padding: 30px;
+}
+h1{
+    color: #2B4162;
+    position: absolute
+}
+h2{
+    color: #385F71;
+}
+p{
+    color: #F5F0F6;
+}
+.sociallinks a {
+    text-decoration: none;
+}
+.hero img {
+    display: block;
+    width: 100%;
+    height: auto;
+    article {
+        position: absolute;
+        img{
+            float: right;
+            margin-left: 15px;
+        }
+    }
+}
