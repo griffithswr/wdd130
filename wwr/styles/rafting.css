@@ -19,11 +19,11 @@ p{
     display: block;
     width: 100%;
     height: auto;
-    article {
-        position: absolute;
-    }
-    img{
-        float: right;
-        margin-left: 15px;
-    }
+}
+article {
+    position: absolute;
+}
+img{
+    float: right;
+    margin-left: 15px;
 }
