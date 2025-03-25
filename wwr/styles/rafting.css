@@ -4,7 +4,7 @@
 }
 h1{
     color: #2B4162;
-    position: absolute
+    position: absolute;
 }
 h2{
     color: #385F71;
@@ -16,14 +16,14 @@ p{
     text-decoration: none;
 }
 .hero {
-    position: relative
+    position: relative;
 }
 .hero h1{
     color: #2B4162;
-    position: absolute
+    position: absolute;
 }
 .hero article {
-    position: absolute
+    position: absolute;
 }
 .hero img {
     display: block;
