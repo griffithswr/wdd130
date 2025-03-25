@@ -15,10 +15,19 @@ p{
 .sociallinks a {
     text-decoration: none;
 }
+.hero h1{
+    color: #2B4162;
+    position: absolute
+}
+.hero article {
+    position: absolute
+}
 .hero img {
     display: block;
     width: 100%;
     height: auto;
+    float: right;
+    margin-left: 15 px;
 }
 article {
     position: absolute;
