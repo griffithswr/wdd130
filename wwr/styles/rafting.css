@@ -15,6 +15,9 @@ p{
 .sociallinks a {
     text-decoration: none;
 }
+.hero {
+    position: relative
+}
 .hero h1{
     color: #2B4162;
     position: absolute
@@ -28,11 +31,4 @@ p{
     height: auto;
     float: right;
     margin-left: 15 px;
-}
-article {
-    position: absolute;
-}
-img{
-    float: right;
-    margin-left: 15px;
 }
