@@ -21,9 +21,9 @@ p{
     height: auto;
     article {
         position: absolute;
-        img{
-            float: right;
-            margin-left: 15px;
-        }
+    }
+    img{
+        float: right;
+        margin-left: 15px;
     }
 }
