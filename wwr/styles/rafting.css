@@ -6,6 +6,9 @@ h1{
     color: #2B4162;
     position: absolute;
 }
+nav{
+    text-decoration: none;
+}
 h2{
     color: #385F71;
 }
@@ -25,9 +28,12 @@ p{
 .hero article {
     position: absolute;
 }
+.hero article img {
+    width: 200px;
+    float: right;
+}
 .hero img {
     display: block;
     width: 100%;
     height: auto;
-    float: right;
 }
