@@ -2,10 +2,12 @@
     background-color: #8F754F;
     padding: 30px;
 }
-h1{
+
+h1 {
     color: #2B4162;
     position: absolute;
 }
+
 header {
     display: grid;
     grid-gap: .5rem;
@@ -13,33 +15,42 @@ header {
     border: 3px solid rgb(0 0 0 / 1);
     padding: 1rem;
 }
-nav{
-    flex: ;
+
+nav {
+    display: flex;
     text-decoration: none;
 }
-h2{
+
+h2 {
     color: #385F71;
 }
-p{
+
+p {
     color: #F5F0F6;
 }
+
 .sociallinks a {
     text-decoration: none;
 }
+
 .hero {
     position: relative;
 }
-.hero h1{
+
+.hero h1 {
     color: #2B4162;
     position: absolute;
 }
+
 .hero article {
     position: absolute;
 }
+
 .hero article img {
     width: 200px;
     float: right;
 }
+
 .hero img {
     display: block;
     width: 100%;
