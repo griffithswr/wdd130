@@ -116,6 +116,25 @@ p {
     text-align: center;
 }
 
+.journey div {
+    display: flex;
+    flex-flow: column;
+}
+ 
+.journey figure {
+   padding: 4px;
+   max-height: 200px;
+   margin: left;
+}
+ 
+.journey figure img {
+    max-height: 100px;
+}
+.journey figcaption {
+    padding: 2px;
+    text-align: left;
+}
+
 footer {
     display: grid;
     grid-gap: .5rem;
